@@ -23,3 +23,18 @@ Main features:
 - b
 
 ---
+
+### 2D Submarine physics sim
+<img src="https://github.com/weywocketer/weywocketer/blob/master/th.png" width=30% align="center">
+
+Simple 2D submarine simulation based on the Archimedes' principle, created in Unity. No Unity Physics Components were used.
+
+itch.io site: https://weywocketer.itch.io/three-red-lines
+<br>
+description, diagrams and code:
+
+Main features:
+- a
+- b
+
+---
