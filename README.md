@@ -1,26 +1,18 @@
 ### Weywocketer
 
-## About
+### About
+
+---
 
 ## My projects
 ### Three Red Lines
-![Contribution guidelines for this project](th.png)
-
+<img src="https://github.com/weywocketer/weywocketer/blob/master/th.png" width=30% align="center">
 
 Side-view 2D/3D RTS game set during the Napoleonic Wars made in Unity.  
-https://weywocketer.itch.io/three-red-lines
 
-<!--
-**weywocketer/weywocketer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+itch.io site: https://weywocketer.itch.io/three-red-lines
+description, diagrams and code:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Main features:
+- a
+- b
