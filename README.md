@@ -1,8 +1,12 @@
+<!--
+
 # Weywocketer
 
 ## About
 
 ---
+
+-->
 
 ## My projects
 ### Three Red Lines
@@ -17,3 +21,5 @@ description, diagrams and code:
 Main features:
 - a
 - b
+
+---
