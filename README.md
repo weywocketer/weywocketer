@@ -10,7 +10,7 @@
 
 ## My projects
 ### Three Red Lines
-<img src="https://github.com/weywocketer/weywocketer/blob/master/th.png" width=30% align="center">
+<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=50% align="center">
 
 Side-view 2D/3D RTS game set during the Napoleonic Wars made in Unity.  
 
@@ -25,7 +25,7 @@ Main features:
 ---
 
 ### 2D Submarine physics sim
-<img src="https://github.com/weywocketer/weywocketer/blob/master/th.png" width=30% align="center">
+<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/submarine.png" width=50% align="center">
 
 Simple 2D submarine simulation based on the Archimedes' principle, created in Unity. No Unity Physics Components were used.
 
