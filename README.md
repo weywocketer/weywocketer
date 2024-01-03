@@ -10,10 +10,11 @@
 
 ## My projects
 ### Three Red Lines
-<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=30%>
+<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=30%>   <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=30%>
 
 Side-view 2D/3D RTS game set during the Napoleonic Wars, made in Unity.
 - 3 different types of units to command: line infantry, light infantry and militia.
+- Distance and melee combat.
 - Soldiers in the unit try to maintain the line formation by filling into the empty spots.
 - Unit deployment phase before the battle starts.
 - Morale and stamina system.
