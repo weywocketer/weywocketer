@@ -9,6 +9,21 @@
 -->
 
 ## My projects
+### FUBAR Ops: Emu War
+<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=30%>
+Topdown tactical shooter set during the Emu War.
+- Player can command individual squad members, change squad formation (with formations like line, wedge and column).
+- Friendly and enemy AI:
+	- Steering behaviours (flocking, obstacle avoidance, etc.).
+	- State machines controlling unit behaviours.
+- Spatial partitioning is utilized to improve performance.
+- Terrain map avaliable to the player, with abiltity to draw on it.
+- Different design patterns are utilized to keep the code maintainable.
+
+Game site: https://weywocketer.itch.io/three-red-lines
+
+---
+
 ### Three Red Lines
 <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=30%>   <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=30%>
 
