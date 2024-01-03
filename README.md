@@ -12,7 +12,14 @@
 ### Three Red Lines
 <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=30%>
 
-Side-view 2D/3D RTS game set during the Napoleonic Wars made in Unity.  
+Side-view 2D/3D RTS game set during the Napoleonic Wars, made in Unity.
+- 3 different types of units to command: line infantry, light infantry and militia.
+- Soldiers in the unit try to maintain the line formation by filling into the empty spots.
+- Unit deployment phase before the battle starts.
+- Morale and stamina system.
+- Unusual, side-view perspective of the battlefield (with 2D sprites fighting in the 3D world).
+- 3 scenarios ready to play.
+- Simple, random decision based AI.
 
 Game site: https://weywocketer.itch.io/three-red-lines
 
@@ -26,7 +33,7 @@ Simple 2D submarine simulation based on the Archimedes' principle, created in Un
 - Simulated with forward Euler method with manual damping.
 - Both control planes and ballast tanks can be used to control the ship's depth.
 
-Projcet site: https://weywocketer.itch.io/2d-submarine-physics-sim
+Project site: https://weywocketer.itch.io/2d-submarine-physics-sim
 
 ---
 
