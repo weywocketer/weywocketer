@@ -12,7 +12,7 @@
 ### FUBAR Ops: Emu War
 <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/emu.png" width=30%>
 
-Topdown tactical shooter set during the Emu War.
+Topdown tactical shooter set during the Emu War, made in Unity.
 - Player can command individual squad members, change squad formation (with formations like line, wedge and column).
 - Friendly and enemy AI:
 	- Steering behaviours (flocking, obstacle avoidance, etc.).
@@ -21,7 +21,7 @@ Topdown tactical shooter set during the Emu War.
 - Terrain map avaliable to the player, with abiltity to draw on it.
 - Different design patterns are utilized to keep the code maintainable.
 
-Game site: https://weywocketer.itch.io/three-red-lines
+Repository: TBD
 
 ---
 
@@ -45,7 +45,7 @@ Game site: https://weywocketer.itch.io/three-red-lines
 ### 2D Submarine physics sim
 <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/submarine.png" width=30%>
 
-Simple 2D submarine simulation based on the Archimedes' principle, created in Unity.
+Simple 2D submarine simulation based on the Archimedes' principle, made in Unity.
 - No Unity Physics Components were used.
 - Simulated with forward Euler method with manual damping.
 - Both control planes and ballast tanks can be used to control the ship's depth.
@@ -71,6 +71,6 @@ Repository: https://github.com/weywocketer/mud
 ### Forresto
 <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/forresto.png" width=30%>
 
-Tower defence made for game jam Ludum Dare 52 in a team of three.
+Tower defence made for game jam Ludum Dare 52 in a team of three. Created in Unity.
 
 Game site: https://weywocketer.itch.io/forresto
