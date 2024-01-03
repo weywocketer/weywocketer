@@ -15,12 +15,6 @@
 Side-view 2D/3D RTS game set during the Napoleonic Wars made in Unity.  
 
 itch.io site: https://weywocketer.itch.io/three-red-lines
-<br>
-description, diagrams and code:
-
-Main features:
-- a
-- b
 
 ---
 
@@ -30,10 +24,14 @@ Main features:
 Simple 2D submarine simulation based on the Archimedes' principle, created in Unity. No Unity Physics Components were used.
 
 itch.io site: https://weywocketer.itch.io/2d-submarine-physics-sim
-<br>
-Repository:
-Main features:
-- a
-- b
+
+---
+
+### Multi-User Dungeon game prototype
+<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/mud.png" width=50% align="center">
+
+Prototype of a platform for text-based multiplayer game. Created using Python. Clients connected to the server can interact with the world using TUI created with npyscreen library.
+
+Repository: https://github.com/weywocketer/mud
 
 ---
