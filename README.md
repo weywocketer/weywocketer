@@ -40,7 +40,7 @@ Project site: https://weywocketer.itch.io/2d-submarine-physics-sim
 ### Multi-User Dungeon game prototype
 <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/mud.png" width=30%>
 
-Prototype of a platform for text-based multiplayer game. Created using Python. Clients connected to the server can interact with the world using TUI created with npyscreen library.
+Prototype of a platform for text-based multiplayer game, created using Python.
 - Clients can interact with the world by sending player commands to the server.
 - In fixed intervals server sends updated world information to clinets.
 - Communication based on TCP protocol — due to relatively wide server fixed intervals, higher packet delays are not a big concern.
