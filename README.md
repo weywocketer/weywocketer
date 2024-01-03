@@ -10,7 +10,8 @@
 
 ## My projects
 ### FUBAR Ops: Emu War
-<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=30%>
+<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/emu.png" width=30%>
+
 Topdown tactical shooter set during the Emu War.
 - Player can command individual squad members, change squad formation (with formations like line, wedge and column).
 - Friendly and enemy AI:
