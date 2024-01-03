@@ -37,7 +37,7 @@ Repository: https://github.com/weywocketer/mud
 ---
 
 ### Forresto
-<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/mud.png" width=30%>
+<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/forresto.png" width=30%>
 
 Tower defence made for game jam Ludum Dare 52 in a team of three.
 
