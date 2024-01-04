@@ -47,7 +47,7 @@ Project site: https://weywocketer.itch.io/2d-submarine-physics-sim
 ---
 
 ### **Multi-User Dungeon game prototype**
-<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/mud.png" width=30%>
+<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/mud.png" width=50%>
 
 Prototype of a platform for the text-based multiplayer game, created using Python.
 - Clients can interact with the world by sending player commands to the server.
