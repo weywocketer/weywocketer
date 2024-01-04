@@ -63,6 +63,6 @@ Repository: https://github.com/weywocketer/mud
 ### **Forresto**
 <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/forresto.png" width=30%>
 
-Tower defence made for game jam Ludum Dare 52 in a team of three. Created in Unity.
+Tower defence made for Ludum Dare 52 game jam in a team of three. Created in Unity.
 
 Game site: https://weywocketer.itch.io/forresto
