@@ -18,7 +18,7 @@ Repository: https://github.com/weywocketer/emu-war
 ---
 
 ### **Three Red Lines**
-<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=30%>   <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=30%>
+<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines.png" width=30%>   <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/threeRedLines2.png" width=30%>
 
 Side-view 2D/3D RTS game set during the Napoleonic Wars, made in Unity.
 - 3 different types of units to command: line infantry, light infantry and militia.
