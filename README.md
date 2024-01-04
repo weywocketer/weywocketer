@@ -15,10 +15,10 @@
 Topdown tactical shooter set during the Emu War, made in Unity.
 - Player can command individual squad members, change squad formation (with formations like line, wedge and column).
 - Friendly and enemy AI:
-	- Steering behaviours (flocking, obstacle avoidance, etc.).
+	- Different steering behaviours, that can be combined (flocking, wander, obstacle avoidance, etc.).
 	- State machines controlling unit behaviours.
 - Spatial partitioning is utilized to improve performance.
-- Terrain map avaliable to the player, with abiltity to draw on it.
+- Terrain map avaliable to the player, with the abiltity to draw on it.
 - Different design patterns are utilized to keep the code maintainable.
 
 Repository: TBD
@@ -57,7 +57,7 @@ Project site: https://weywocketer.itch.io/2d-submarine-physics-sim
 ### Multi-User Dungeon game prototype
 <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/mud.png" width=30%>
 
-Prototype of a platform for text-based multiplayer game, created using Python.
+Prototype of a platform for the text-based multiplayer game, created using Python.
 - Clients can interact with the world by sending player commands to the server.
 - In fixed intervals server sends updated world information to clinets.
 - Communication based on TCP protocol — due to relatively wide server fixed intervals, higher packet delays are not a big concern.
