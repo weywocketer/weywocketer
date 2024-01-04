@@ -1,13 +1,3 @@
-<!--
-
-# Weywocketer
-
-## About
-
----
-
--->
-
 ## My projects
 ### FUBAR Ops: Emu War
 <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/emu.png" width=30%>
@@ -21,7 +11,9 @@ Top-down tactical shooter set during the Emu War, made in Unity.
 - Terrain map avaliable to the player, with the abiltity to draw on it.
 - Different design patterns are utilized to keep the code maintainable.
 
-Repository: TBD
+### *Readme file in the repository contains diagrams and description of the project architecture.*
+<br>
+Repository: https://github.com/weywocketer/emu-war
 
 ---
 
