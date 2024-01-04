@@ -12,7 +12,7 @@
 ### FUBAR Ops: Emu War
 <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/emu.png" width=30%>
 
-Topdown tactical shooter set during the Emu War, made in Unity.
+Top-down tactical shooter set during the Emu War, made in Unity.
 - Player can command individual squad members, change squad formation (with formations like line, wedge and column).
 - Friendly and enemy AI:
 	- Different steering behaviours, that can be combined (flocking, wander, obstacle avoidance, etc.).
