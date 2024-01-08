@@ -9,7 +9,7 @@ Top-down tactical shooter set during the Emu War, made in Unity.
 	- Different steering behaviours, that can be combined (flocking, wander, obstacle avoidance, etc.).
 	- State machines controlling unit behaviours.
 - Spatial partitioning is utilized to improve performance.
-- Terrain map avaliable to the player, with the abiltity to draw on it.
+- Terrain map available to the player, with the ability to draw on it.
 - Different design patterns are utilized to keep the code maintainable.
 
 ### *Readme file in the repository contains diagrams and description of the project architecture.*
@@ -52,7 +52,7 @@ Project site: https://weywocketer.itch.io/2d-submarine-physics-sim
 
 Prototype of a platform for the text-based multiplayer game, created using Python.
 - Clients can interact with the world by sending player commands to the server.
-- In fixed intervals server sends updated world information to clinets.
+- In fixed intervals, server sends updated world information to clients.
 - Communication based on TCP protocol — due to relatively wide server fixed intervals, higher packet delays are not a big concern.
 - Multithreading is used to handle multiple server connections.
 - Clients use text-based user interface (TUI) created with npyscreen library.
