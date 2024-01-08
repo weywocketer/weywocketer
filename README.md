@@ -13,7 +13,7 @@ Top-down tactical shooter set during the Emu War, made in Unity.
 
 ### *Readme file in the repository contains diagrams and description of the project architecture.*
 <br>
-Repository: https://github.com/weywocketer/emu-war
+Repository: https://github.com/weywocketer/EmuWar
 
 ---
 
