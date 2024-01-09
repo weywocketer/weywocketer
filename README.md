@@ -1,7 +1,6 @@
 # My projects
 ### **FUBAR Ops: Emu War**
-<img src="https://github.com/weywocketer/weywocketer/assets/50771049/9f9a12c9-9113-46f4-9f3b-71f3cdc14a7d" width=35%>
-<img src="https://github.com/weywocketer/weywocketer/assets/50771049/f3f98733-7c3b-4095-bef0-732756baac34" width=40%>
+<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/emu1.png" width=35%>   <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/emu2.png" width=40%>
 
 Top-down tactical shooter set during the Emu War, made in Unity.
 - Player can command individual squad members, change squad formation (with formations like line, wedge and column).
