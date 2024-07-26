@@ -6,7 +6,7 @@ A work-in-progress FPP historical sailing simulator, developed in a two-person t
 
 Implemented features:
 - Apparent wind calculation.
-- Calculation of aerodynamic forces based on sail's angle of attack, sail geometry, wind force; possibility of backing the sail etc.
+- Calculation of aerodynamic forces based on sail's angle of attack, sail geometry, wind force; possibility of backing the sail, etc.
 - Integration with the ocean simulation from the StormBreakers package (https://github.com/Stormrider31/Storm-Breakers): hydrostatic and hydrodynamic forces on the hull, waves affecting the hull.
 - Ship stability and heeling, leeway, weather/lee helm.
 - Rudder forces calculation.
