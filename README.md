@@ -16,7 +16,7 @@ Implemented features:
 Features currently in development:
 - Gaff mainsail integrated with Unity Cloth.
 - Simplified 3D model of an 18th century sloop/cutter.
-- NavMesh-based on-board movement system (for player and AI crew) - quite a challenge on a constantly moving and rotating multi-storey ship.
+- NavMesh-based on-board movement system (for player and AI crew) — quite a challenge on a constantly moving and rotating multi-storey ship.
 
 ---
 
