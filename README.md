@@ -10,7 +10,7 @@ Implemented features:
 - Integration with the ocean simulation from the StormBreakers package (https://github.com/Stormrider31/Storm-Breakers): hydrostatic and hydrodynamic forces on the hull, waves affecting the hull.
 - Ship stability and heeling, leeway, weather/lee helm.
 - Rudder forces calculation.
-- Foresail integrated with Unity Cloth (sail trimming, sail flapping, etc.), sheets based on Unity Joints.
+- Foresail integrated with Unity Cloth (sail trimming, luffing, etc.), sheets based on Unity Joints.
 - Visualization of the running rigging (currently only for sheets).
 
 Features currently in development:
