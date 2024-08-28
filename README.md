@@ -2,21 +2,23 @@
 ### **Anchor**
 <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/anchor1.png" width=35%>   <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/anchor2.png" width=30%>   <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/anchor3.png" width=30%>
 
-A work-in-progress FPP historical sailing simulator, developed in a two-person team. Our main goal is to create a convincing sailing physics simulation, which could be further extended with gameplay features.
+A work-in-progress FPP historical sailing simulator, developed in a two-person team, created in Unity. Our main goal is to create a convincing sailing physics simulation, which could be further extended with gameplay features.
 
 Implemented features:
 - Apparent wind calculation.
-- Calculation of aerodynamic forces based on sail's angle of attack, sail geometry, wind force; possibility of backing the sail, etc.
+- Calculation of aerodynamic forces (lift, drag) based on sail's angle of attack, sail geometry, wind force; possibility of backing the sail, etc.
 - Integration with the ocean simulation from the StormBreakers package (https://github.com/Stormrider31/Storm-Breakers): hydrostatic and hydrodynamic forces on the hull, waves affecting the hull.
 - Ship stability and heeling, leeway, weather/lee helm.
 - Rudder forces calculation.
-- Foresail integrated with Unity Cloth (sail trimming, luffing, etc.), sheets based on Unity Joints.
-- Visualization of the running rigging (currently only for sheets).
+- Sails (jib, foresail and gaff mainsail) integrated with Unity Cloth (sail trimming, luffing, etc.).
+- Visualization of the running rigging (currently only for sheets) based on Unity Joints.
+- Simplified 3D model of an 18th century British cutter created in Blender.
 
 Features currently in development:
-- Gaff mainsail integrated with Unity Cloth.
-- Simplified 3D model of an 18th century sloop/cutter.
 - NavMesh-based on-board movement system (for player and AI crew) — quite a challenge on a constantly moving and rotating multi-storey ship.
+- Tweaking simulation parameters to produce realistic ship's behaviour in different weather conditions.
+- More detailed cutter model.
+- Improved visualization of the running rigging based on catenary equation.
 
 ---
 
