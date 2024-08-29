@@ -1,6 +1,6 @@
 # My projects
 ### **Anchor**
-<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/anchor5.png" width=34%>   <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/anchor1.png" width=35%>   <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/anchor3.png" width=30%>
+<img src="https://github.com/weywocketer/weywocketer/blob/master/Images/anchor5.png" width=31%>   <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/anchor1.png" width=32%>   <img src="https://github.com/weywocketer/weywocketer/blob/master/Images/anchor6.png" width=34%>
 
 A work-in-progress FPP historical sailing simulator, developed in a two-person team, created in Unity. Our main goal is to create a convincing sailing physics simulation, which could be further extended with gameplay features.
 
