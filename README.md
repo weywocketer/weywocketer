@@ -12,7 +12,7 @@ Implemented features:
 - Rudder forces calculation.
 - Sails (jib, foresail and gaff mainsail) integrated with Unity Cloth (sail trimming, luffing, etc.).
 - Visualization of the running rigging (currently only for sheets) based on Unity Joints.
-- Simplified 3D model of an 18th century British cutter created in Blender.
+- Simplified 3D model of an 18th century British cutter, created in Blender.
 
 Features currently in development:
 - NavMesh-based on-board movement system (for player and AI crew) — quite a challenge on a constantly moving and rotating multi-storey ship.
